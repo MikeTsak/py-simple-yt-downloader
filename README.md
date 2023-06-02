@@ -10,3 +10,4 @@ pip install pysimplegui
 ## How to use
 
 You type your url on the first one
+![scr1](https://raw.githubusercontent.com/MikeTsak/py-simple-yt-downloader/main/scr/Screenshot_1.png)
