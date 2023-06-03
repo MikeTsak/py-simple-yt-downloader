@@ -25,4 +25,4 @@ pip install pysimplegui
 
 ![scr4](https://raw.githubusercontent.com/MikeTsak/py-simple-yt-downloader/main/scr/Screenshot_4.png)
 
-[Personal Website](miketsak.gr)
+[Personal Website](https://miketsak.gr/)
