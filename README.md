@@ -9,15 +9,15 @@ pip install pysimplegui
 ```
 ## How to use
 
-###You type your url on the first one
+## #You type your url on the first one
 
 ![scr1](https://raw.githubusercontent.com/MikeTsak/py-simple-yt-downloader/main/scr/Screenshot_1.png)
 
-###Then you choose if you want Audio or Audio and Video
+### Then you choose if you want Audio or Audio and Video
 
 ![scr2](https://raw.githubusercontent.com/MikeTsak/py-simple-yt-downloader/main/scr/Screenshot_2.png)
 
-###And your video is downloaded!
+### And your video is downloaded!
 
 ![scr3](https://raw.githubusercontent.com/MikeTsak/py-simple-yt-downloader/main/scr/Screenshot_3.png)
 
